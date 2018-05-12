@@ -1,5 +1,5 @@
 {
-  "name": "keychange",
+  "name": "keychange-model",
   "version": "1.0.0",
   "description": "Change object key base on other object",
   "main": "index.js",

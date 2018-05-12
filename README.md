@@ -5,12 +5,12 @@ Change you object Keys base on model you set
 ### Installing
 
 ```
-npm install keychange
+npm install keychange-model
 ```
 
 ### Usage
 ```
- const key changekey = require('keychange');
+ const key changekey = require('keychange-model');
  let data = {
      name: 'BOB',
      age: 25,
